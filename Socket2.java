@@ -1,10 +1,7 @@
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-/**
- *
- * @author mca223
- */
+
 public class Socket2 {
     public static void main(String []args)
     {
